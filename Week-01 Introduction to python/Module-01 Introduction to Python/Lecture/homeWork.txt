@@ -1,0 +1,6 @@
+Home Work
+1. float kivave kaj kore
+2. take 3 numbers from the user and give me the largest number as output
+3. take 3 numbers from the user and give me the sum of the numbers
+4. run a loop and show my the odd numbers between 39 to 68
+5. grade calculator in python (if elif else)
