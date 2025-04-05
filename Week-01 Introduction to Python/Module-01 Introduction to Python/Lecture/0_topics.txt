@@ -1,0 +1,9 @@
+Topics:
+    - variable
+    - operators
+    - conditionals: if, elif, else
+    - while
+    - for
+    - commenting
+    - input
+    - typecasting
